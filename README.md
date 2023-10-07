@@ -7,6 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Exciting and innovative projects that could have an impact in real world** -->
 
+<!-- <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"> -->
+<img align = "right" alt = "coding" width = "350" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
 <p>
 I'm a Full Stack Developer with a love for all things tech. 🚀 From starting up with a cool new project to building some awesome AI tools, I'm the guy who's always up for a coding adventure, turning your innovative dreams into digital reality. 🛠 I've got this itch to always learn more, tackle tough problems, and, of course, have some fun along the way! 😄 If you're looking for someone to geek out with and create some cool stuff, hit me up! Let's code, laugh, and make some digital magic together! 💻🎉 <i>#FullStackFun</i>
 </p>
