@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on **Exciting and innovative projects that could have an impact in real world** -->
 
 <!-- <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"> -->
-</br>
-</br>
+
 
 <img align = "right" alt = "coding" width = "350" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
@@ -30,7 +29,7 @@ I'm a Full Stack Developer with a love for all things tech. 🚀 From starting u
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div align="left" style = "background-color: rgba(256,256,256,0.1); border-radius: 8px"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -65,7 +64,7 @@ I'm a Full Stack Developer with a love for all things tech. 🚀 From starting u
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
