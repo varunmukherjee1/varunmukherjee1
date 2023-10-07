@@ -10,11 +10,14 @@
 - 👯 I’m looking to collaborate on **Exciting and innovative projects that could have an impact in real world** -->
 
 <!-- <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"> -->
+</br>
+</br>
+
 <img align = "right" alt = "coding" width = "350" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-<p>
+<strong>
 I'm a Full Stack Developer with a love for all things tech. 🚀 From starting up with a cool new project to building some awesome AI tools, I'm the guy who's always up for a coding adventure, turning your innovative dreams into digital reality. 🛠 I've got this itch to always learn more, tackle tough problems, and, of course, have some fun along the way! 😄 If you're looking for someone to geek out with and create some cool stuff, hit me up! Let's code, laugh, and make some digital magic together! 💻🎉 <i>#FullStackFun</i>
-</p>
+</strong>
 
 - 🧐 Want to know more about me, checkout my [Portfolio](https://vm-portfolio-1.netlify.app/)
 
@@ -25,12 +28,6 @@ I'm a Full Stack Developer with a love for all things tech. 🚀 From starting u
 <!-- - ⚡ Fun fact **I’ve got a really good UDP joke to tell you, but I don’t know if you’ll get it** -->
 - ⚡ Fun fact **I love reading books and I'm a anime fan! 😁**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/varunmukherjee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varunmukherjee1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varun-mukherjee-a68a121ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-mukherjee-a68a121ba" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varunmukherjee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunmukherjee1" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -68,4 +65,11 @@ I'm a Full Stack Developer with a love for all things tech. 🚀 From starting u
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/varun-mukherjee-a68a121ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-mukherjee-a68a121ba" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/varunmukherjee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varunmukherjee1" height="30" width="40" /></a>
+<a href="https://codepen.io/varunmukherjee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varunmukherjee1" height="30" width="40" /></a> -->
 </p>
