@@ -69,6 +69,7 @@ I'm a Full Stack Developer with a love for all things tech. 🚀 From starting u
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg" alt="Prisma" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.mlq.ai/content/images/2023/06/Screenshot-2023-06-15-at-8.15.36-PM.png" alt="Langchain" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="OpenAI" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="OpenAI" width="40" height="40"/> </a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
